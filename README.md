@@ -10,11 +10,11 @@ The game was created using Unity and C# programming language and is fully functi
 <p>
   <img width="400" src="https://github.com/Yuvashna/GameDev_SpaceShooter/assets/100693356/f6818895-556b-4d2f-b7b4-9e229d187ac1">
 
-Start-up Page
+###### Start-up Page
 
 <img width="400" src="https://github.com/Yuvashna/GameDev_SpaceShooter/assets/100693356/2f7a1e97-3ec4-4918-9991-44c79e688fc9">
 
-Level 1 of the game
+###### Level 1 of the game
 
 </p> 
 </div>
